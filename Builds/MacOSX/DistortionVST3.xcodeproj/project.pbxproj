@@ -1,0 +1,2070 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+		F380FC53FFB3A19581FD1BD7 = {
+			isa = PBXBuildFile;
+			fileRef = 73B8E3FC20A5F352A0F60F33;
+		};
+		C0CA724C84F4EE5A93C98E6E = {
+			isa = PBXBuildFile;
+			fileRef = 0A967B895E0E0A61BAC28094;
+		};
+		13410B795EF6A4AFFA03CC5D = {
+			isa = PBXBuildFile;
+			fileRef = FA1F1B4B68E1D39982619E76;
+		};
+		4C11B712A8CCD40F977ED47C = {
+			isa = PBXBuildFile;
+			fileRef = B881BB9CE86D6D873AEC61FF;
+		};
+		E10F99BE5B95B43819EF6AB7 = {
+			isa = PBXBuildFile;
+			fileRef = 243B1C3096EA24090FE73295;
+		};
+		543C04F797A006BB6B89E61B = {
+			isa = PBXBuildFile;
+			fileRef = 690FB9772344FC2F49B5E2AE;
+		};
+		95B93B23F382B2333A125B5B = {
+			isa = PBXBuildFile;
+			fileRef = A7D01224438EC6BB668A51D6;
+		};
+		75FF6FF7BCC59980C2C836ED = {
+			isa = PBXBuildFile;
+			fileRef = 8CF81B8BE069D38DBE0E10F5;
+		};
+		1D7E50EC67D29C3EDA714112 = {
+			isa = PBXBuildFile;
+			fileRef = C0CC8E0AE2CFC60DA23B9E50;
+		};
+		B7D41B2EE93417C9FA5235FE = {
+			isa = PBXBuildFile;
+			fileRef = DF1709D530CAD43427324223;
+		};
+		B65843AA1D205F06E3E2A8B3 = {
+			isa = PBXBuildFile;
+			fileRef = 7097E57D69E72533A24489DF;
+		};
+		24ED62E1631117A47659E55C = {
+			isa = PBXBuildFile;
+			fileRef = 56E440EBED1F0D2C4C0F912E;
+		};
+		00DD8AB20C9590D845BEFDF8 = {
+			isa = PBXBuildFile;
+			fileRef = DDA61BFBD46FEE7BD4B23F7A;
+		};
+		21C8274E3A104C42CCCED715 = {
+			isa = PBXBuildFile;
+			fileRef = F4E6A38A0C2993198F4A4E05;
+		};
+		F0330721B77A0798B5BDB0D8 = {
+			isa = PBXBuildFile;
+			fileRef = B40DC5B17019BE615EA26E71;
+		};
+		0AE7825D700D7B5B5CA178C0 = {
+			isa = PBXBuildFile;
+			fileRef = 943C37FDCF18372E285C76BB;
+		};
+		424004F1D1C0AB14AFF3E701 = {
+			isa = PBXBuildFile;
+			fileRef = 47117D9390407D0BAEAFEE77;
+		};
+		7C50C6CAFE5F3E8AE3F95335 = {
+			isa = PBXBuildFile;
+			fileRef = 84B727A3A19D2F3FA2611D0B;
+		};
+		60C5A8683BBC235503B0F63C = {
+			isa = PBXBuildFile;
+			fileRef = F9802C06B2EE6F5D5CC6D8E0;
+		};
+		B28A70167165D2F401D5E22E = {
+			isa = PBXBuildFile;
+			fileRef = 12DB226A1A237898D807E8C1;
+		};
+		F3F7650D2DCE76B333A13049 = {
+			isa = PBXBuildFile;
+			fileRef = 030EA3D4CCE064266BBEB537;
+		};
+		DAB4B3308E91703AEB073CA6 = {
+			isa = PBXBuildFile;
+			fileRef = E13AFC6101E99341DBA9E513;
+		};
+		633C95DA78B61FDC17310ED0 = {
+			isa = PBXBuildFile;
+			fileRef = 3C50A66866568B031FC79493;
+		};
+		17B4EE27055B232FBB078A5A = {
+			isa = PBXBuildFile;
+			fileRef = 97EC8843AFB85AEA011AB6CB;
+		};
+		25940E2441A069DB17CC3249 = {
+			isa = PBXBuildFile;
+			fileRef = 8867F09CD18D247CFBFAA392;
+		};
+		24725815DAEE3DBC747CBF32 = {
+			isa = PBXBuildFile;
+			fileRef = D4D475FD3B4BC99F811AFD85;
+		};
+		722BA6438142B1DAA414BB19 = {
+			isa = PBXBuildFile;
+			fileRef = D8798451C2EFCE291AE7826A;
+		};
+		F502FFF85D137D64521AE02B = {
+			isa = PBXBuildFile;
+			fileRef = 81DFA093ACD22AC5A8EC00C1;
+		};
+		88E94B20F42621D69007E7CD = {
+			isa = PBXBuildFile;
+			fileRef = E0D058991619ED5D256DC905;
+		};
+		026A60927D576F223640064B = {
+			isa = PBXBuildFile;
+			fileRef = F54F6CB68EEF2B0CB71B684A;
+		};
+		9A34C23EB18CA724996C03C6 = {
+			isa = PBXBuildFile;
+			fileRef = 1BBC3385C1BCE91297473874;
+		};
+		166BB3BDDD8B6BED7625163E = {
+			isa = PBXBuildFile;
+			fileRef = A393FDD0B43CD862E2C99FD8;
+		};
+		84F913E90B305E87CC606D58 = {
+			isa = PBXBuildFile;
+			fileRef = 5E24731EEC4CED155CDFC3E1;
+		};
+		C95AADCCBBD9D2037117771D = {
+			isa = PBXBuildFile;
+			fileRef = CCABA4CFFAC43A87D83281F1;
+		};
+		CCE643A61FB941178A713AB3 = {
+			isa = PBXBuildFile;
+			fileRef = 92D222BD95820C3C7575C196;
+		};
+		5B5C9BE663131AF525200EF8 = {
+			isa = PBXBuildFile;
+			fileRef = A611D4930F35C3CB0B752D78;
+		};
+		A51735495EF7C9779C8BECCF = {
+			isa = PBXBuildFile;
+			fileRef = B9EB80051D2A9241E0203E95;
+		};
+		212B127E36B94C9E9847E54F = {
+			isa = PBXBuildFile;
+			fileRef = 1F69C190E80A576370BD8F52;
+		};
+		00925E7D75F8A4C48D985DAA = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_data_structures";
+			path = "/Users/luke/Documents/myVSTs/JUCE/modules/juce_data_structures";
+			sourceTree = "<absolute>";
+		};
+		030EA3D4CCE064266BBEB537 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_basics.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_basics.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		05C1A2B37B0E11E6E4E6A8B6 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.xml;
+			name = "Info-AU.plist";
+			path = "Info-AU.plist";
+			sourceTree = "SOURCE_ROOT";
+		};
+		0ABB85389F62AC009C4CE0F0 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = JucePluginDefines.h;
+			path = ../../JuceLibraryCode/JucePluginDefines.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		107020D3CC8B3B92B34F8B7A = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_formats";
+			path = "/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_formats";
+			sourceTree = "<absolute>";
+		};
+		73B8E3FC20A5F352A0F60F33 = {
+			isa = PBXFileReference;
+			explicitFileType = wrapper.cfbundle;
+			includeInIndex = 0;
+			path = DistortionVST3.vst3;
+			sourceTree = "BUILT_PRODUCTS_DIR";
+		};
+		0A967B895E0E0A61BAC28094 = {
+			isa = PBXFileReference;
+			explicitFileType = wrapper.cfbundle;
+			includeInIndex = 0;
+			path = DistortionVST3.component;
+			sourceTree = "BUILT_PRODUCTS_DIR";
+		};
+		12DB226A1A237898D807E8C1 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = PluginEditor.cpp;
+			path = ../../Source/PluginEditor.cpp;
+			sourceTree = "SOURCE_ROOT";
+		};
+		1BBC3385C1BCE91297473874 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_processors.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_processors.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		1EA48D96D3C117CFF524B9C3 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.xml;
+			name = "Info-VST3.plist";
+			path = "Info-VST3.plist";
+			sourceTree = "SOURCE_ROOT";
+		};
+		1F69C190E80A576370BD8F52 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_gui_extra.mm";
+			path = "../../JuceLibraryCode/include_juce_gui_extra.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		243B1C3096EA24090FE73295 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = AudioUnit.framework;
+			path = System/Library/Frameworks/AudioUnit.framework;
+			sourceTree = SDKROOT;
+		};
+		2D8450CFEE359195C5E69698 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_processors";
+			path = "/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_processors";
+			sourceTree = "<absolute>";
+		};
+		3C50A66866568B031FC79493 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_formats.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_formats.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		47117D9390407D0BAEAFEE77 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = WebKit.framework;
+			path = System/Library/Frameworks/WebKit.framework;
+			sourceTree = SDKROOT;
+		};
+		56CEB25832A83DC718571161 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_core";
+			path = "/Users/luke/Documents/myVSTs/JUCE/modules/juce_core";
+			sourceTree = "<absolute>";
+		};
+		56E440EBED1F0D2C4C0F912E = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = CoreMIDI.framework;
+			path = System/Library/Frameworks/CoreMIDI.framework;
+			sourceTree = SDKROOT;
+		};
+		598EDD52C0C92F74011A69C0 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_plugin_client";
+			path = "/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_plugin_client";
+			sourceTree = "<absolute>";
+		};
+		5E24731EEC4CED155CDFC3E1 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_core.mm";
+			path = "../../JuceLibraryCode/include_juce_core.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		690FB9772344FC2F49B5E2AE = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Accelerate.framework;
+			path = System/Library/Frameworks/Accelerate.framework;
+			sourceTree = SDKROOT;
+		};
+		6C6349CD1E41728E893C36E6 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = PluginProcessor.h;
+			path = ../../Source/PluginProcessor.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		6E2FE61D179ED9850918A151 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.xml;
+			name = "Info-Standalone_Plugin.plist";
+			path = "Info-Standalone_Plugin.plist";
+			sourceTree = "SOURCE_ROOT";
+		};
+		7097E57D69E72533A24489DF = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = CoreAudioKit.framework;
+			path = System/Library/Frameworks/CoreAudioKit.framework;
+			sourceTree = SDKROOT;
+		};
+		752AF03D0BF050C5F87E9219 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_gui_extra";
+			path = "/Users/luke/Documents/myVSTs/JUCE/modules/juce_gui_extra";
+			sourceTree = "<absolute>";
+		};
+		7BB762BD68F4AE37864DE79D = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_devices";
+			path = "/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_devices";
+			sourceTree = "<absolute>";
+		};
+		81DFA093ACD22AC5A8EC00C1 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = "include_juce_audio_plugin_client_utils.cpp";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_utils.cpp";
+			sourceTree = "SOURCE_ROOT";
+		};
+		84B727A3A19D2F3FA2611D0B = {
+			isa = PBXFileReference;
+			lastKnownFileType = file.nib;
+			name = RecentFilesMenuTemplate.nib;
+			path = RecentFilesMenuTemplate.nib;
+			sourceTree = "SOURCE_ROOT";
+		};
+		8867F09CD18D247CFBFAA392 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_plugin_client_AU_1.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_AU_1.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		8CF81B8BE069D38DBE0E10F5 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Carbon.framework;
+			path = System/Library/Frameworks/Carbon.framework;
+			sourceTree = SDKROOT;
+		};
+		90F27F693EB9D4352B9B56D6 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_graphics";
+			path = "/Users/luke/Documents/myVSTs/JUCE/modules/juce_graphics";
+			sourceTree = "<absolute>";
+		};
+		92D222BD95820C3C7575C196 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_events.mm";
+			path = "../../JuceLibraryCode/include_juce_events.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		943C37FDCF18372E285C76BB = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = QuartzCore.framework;
+			path = System/Library/Frameworks/QuartzCore.framework;
+			sourceTree = SDKROOT;
+		};
+		97EC8843AFB85AEA011AB6CB = {
+			isa = PBXFileReference;
+			lastKnownFileType = file.r;
+			name = "include_juce_audio_plugin_client_AU.r";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_AU.r";
+			sourceTree = "SOURCE_ROOT";
+		};
+		A393FDD0B43CD862E2C99FD8 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_utils.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_utils.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		A611D4930F35C3CB0B752D78 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_graphics.mm";
+			path = "../../JuceLibraryCode/include_juce_graphics.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		A7D01224438EC6BB668A51D6 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = AudioToolbox.framework;
+			path = System/Library/Frameworks/AudioToolbox.framework;
+			sourceTree = SDKROOT;
+		};
+		B40DC5B17019BE615EA26E71 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = IOKit.framework;
+			path = System/Library/Frameworks/IOKit.framework;
+			sourceTree = SDKROOT;
+		};
+		B9EB80051D2A9241E0203E95 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_gui_basics.mm";
+			path = "../../JuceLibraryCode/include_juce_gui_basics.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		C0CC8E0AE2CFC60DA23B9E50 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Cocoa.framework;
+			path = System/Library/Frameworks/Cocoa.framework;
+			sourceTree = SDKROOT;
+		};
+		CA6A78B630A4AA83548379B4 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_basics";
+			path = "/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_basics";
+			sourceTree = "<absolute>";
+		};
+		CC6A1E60727B8687599E4972 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = JuceHeader.h;
+			path = ../../JuceLibraryCode/JuceHeader.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		CCABA4CFFAC43A87D83281F1 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_data_structures.mm";
+			path = "../../JuceLibraryCode/include_juce_data_structures.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		D4D475FD3B4BC99F811AFD85 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_plugin_client_AU_2.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_AU_2.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		D56D95C94D0EB235BCC77F2D = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = PluginEditor.h;
+			path = ../../Source/PluginEditor.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		D594E4EA8F9B4339051C0F14 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_utils";
+			path = "/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_utils";
+			sourceTree = "<absolute>";
+		};
+		D8798451C2EFCE291AE7826A = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = "include_juce_audio_plugin_client_Standalone.cpp";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_Standalone.cpp";
+			sourceTree = "SOURCE_ROOT";
+		};
+		DDA61BFBD46FEE7BD4B23F7A = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = DiscRecording.framework;
+			path = System/Library/Frameworks/DiscRecording.framework;
+			sourceTree = SDKROOT;
+		};
+		DF1709D530CAD43427324223 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = CoreAudio.framework;
+			path = System/Library/Frameworks/CoreAudio.framework;
+			sourceTree = SDKROOT;
+		};
+		E0D058991619ED5D256DC905 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_plugin_client_VST_utils.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_VST_utils.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		E13AFC6101E99341DBA9E513 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_devices.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_devices.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		E97F0AF28687FC4D70D01E98 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_gui_basics";
+			path = "/Users/luke/Documents/myVSTs/JUCE/modules/juce_gui_basics";
+			sourceTree = "<absolute>";
+		};
+		F4E6A38A0C2993198F4A4E05 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Foundation.framework;
+			path = System/Library/Frameworks/Foundation.framework;
+			sourceTree = SDKROOT;
+		};
+		F54F6CB68EEF2B0CB71B684A = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = "include_juce_audio_plugin_client_VST3.cpp";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_VST3.cpp";
+			sourceTree = "SOURCE_ROOT";
+		};
+		F9802C06B2EE6F5D5CC6D8E0 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = PluginProcessor.cpp;
+			path = ../../Source/PluginProcessor.cpp;
+			sourceTree = "SOURCE_ROOT";
+		};
+		F9CD0D88FD54719CAD53D1AF = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_events";
+			path = "/Users/luke/Documents/myVSTs/JUCE/modules/juce_events";
+			sourceTree = "<absolute>";
+		};
+		FA1F1B4B68E1D39982619E76 = {
+			isa = PBXFileReference;
+			explicitFileType = wrapper.application;
+			includeInIndex = 0;
+			path = DistortionVST3.app;
+			sourceTree = "BUILT_PRODUCTS_DIR";
+		};
+		B881BB9CE86D6D873AEC61FF = {
+			isa = PBXFileReference;
+			explicitFileType = archive.ar;
+			includeInIndex = 0;
+			path = libDistortionVST3.a;
+			sourceTree = "BUILT_PRODUCTS_DIR";
+		};
+		FF72DF2A54BEC7FFBD5E0875 = {
+			isa = PBXGroup;
+			children = (
+				F9802C06B2EE6F5D5CC6D8E0,
+				6C6349CD1E41728E893C36E6,
+				12DB226A1A237898D807E8C1,
+				D56D95C94D0EB235BCC77F2D,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		8F460CE1EE166E1916A42449 = {
+			isa = PBXGroup;
+			children = (
+				FF72DF2A54BEC7FFBD5E0875,
+			);
+			name = DistortionVST3;
+			sourceTree = "<group>";
+		};
+		4BEC75E6EC7A1A99F1244D9B = {
+			isa = PBXGroup;
+			children = (
+				CA6A78B630A4AA83548379B4,
+				7BB762BD68F4AE37864DE79D,
+				107020D3CC8B3B92B34F8B7A,
+				598EDD52C0C92F74011A69C0,
+				2D8450CFEE359195C5E69698,
+				D594E4EA8F9B4339051C0F14,
+				56CEB25832A83DC718571161,
+				00925E7D75F8A4C48D985DAA,
+				F9CD0D88FD54719CAD53D1AF,
+				90F27F693EB9D4352B9B56D6,
+				E97F0AF28687FC4D70D01E98,
+				752AF03D0BF050C5F87E9219,
+			);
+			name = "JUCE Modules";
+			sourceTree = "<group>";
+		};
+		6A57EF0F2EB1DC35945A91A3 = {
+			isa = PBXGroup;
+			children = (
+				030EA3D4CCE064266BBEB537,
+				E13AFC6101E99341DBA9E513,
+				3C50A66866568B031FC79493,
+				97EC8843AFB85AEA011AB6CB,
+				8867F09CD18D247CFBFAA392,
+				D4D475FD3B4BC99F811AFD85,
+				D8798451C2EFCE291AE7826A,
+				81DFA093ACD22AC5A8EC00C1,
+				E0D058991619ED5D256DC905,
+				F54F6CB68EEF2B0CB71B684A,
+				1BBC3385C1BCE91297473874,
+				A393FDD0B43CD862E2C99FD8,
+				5E24731EEC4CED155CDFC3E1,
+				CCABA4CFFAC43A87D83281F1,
+				92D222BD95820C3C7575C196,
+				A611D4930F35C3CB0B752D78,
+				B9EB80051D2A9241E0203E95,
+				1F69C190E80A576370BD8F52,
+				CC6A1E60727B8687599E4972,
+				0ABB85389F62AC009C4CE0F0,
+			);
+			name = "JUCE Library Code";
+			sourceTree = "<group>";
+		};
+		4E00056B7F1125483438A846 = {
+			isa = PBXGroup;
+			children = (
+				1EA48D96D3C117CFF524B9C3,
+				05C1A2B37B0E11E6E4E6A8B6,
+				6E2FE61D179ED9850918A151,
+				84B727A3A19D2F3FA2611D0B,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		B84F6658218C26A57625CF8B = {
+			isa = PBXGroup;
+			children = (
+				243B1C3096EA24090FE73295,
+				690FB9772344FC2F49B5E2AE,
+				A7D01224438EC6BB668A51D6,
+				8CF81B8BE069D38DBE0E10F5,
+				C0CC8E0AE2CFC60DA23B9E50,
+				DF1709D530CAD43427324223,
+				7097E57D69E72533A24489DF,
+				56E440EBED1F0D2C4C0F912E,
+				DDA61BFBD46FEE7BD4B23F7A,
+				F4E6A38A0C2993198F4A4E05,
+				B40DC5B17019BE615EA26E71,
+				943C37FDCF18372E285C76BB,
+				47117D9390407D0BAEAFEE77,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		28803DCD50E56CB6321DA7D1 = {
+			isa = PBXGroup;
+			children = (
+				73B8E3FC20A5F352A0F60F33,
+				0A967B895E0E0A61BAC28094,
+				FA1F1B4B68E1D39982619E76,
+				B881BB9CE86D6D873AEC61FF,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9BBC831F6F099E43F407F87A = {
+			isa = PBXGroup;
+			children = (
+				8F460CE1EE166E1916A42449,
+				4BEC75E6EC7A1A99F1244D9B,
+				6A57EF0F2EB1DC35945A91A3,
+				4E00056B7F1125483438A846,
+				B84F6658218C26A57625CF8B,
+				28803DCD50E56CB6321DA7D1,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		50673052FECC957A5BB331FC = {
+			isa = PBXTargetDependency;
+			target = 17EAF302CDB5F3EB7882F8CD;
+		};
+		0DBDE09D176D6D7E17C34AD4 = {
+			isa = PBXTargetDependency;
+			target = DDF073A53297C26C45CDF1C9;
+		};
+		A8ECCFBE98EEF14FD8A01F07 = {
+			isa = PBXTargetDependency;
+			target = 14D2E8531EF60AAE67097260;
+		};
+		EAF7EE281A89A7AF15A65C77 = {
+			isa = PBXTargetDependency;
+			target = D603C56796CEC6F2D939EDA9;
+		};
+		2916E1215D08FF2D266C4E05 = {
+			isa = PBXTargetDependency;
+			target = D603C56796CEC6F2D939EDA9;
+		};
+		5ABE0C3A46CA9FEE6AD4D674 = {
+			isa = PBXTargetDependency;
+			target = D603C56796CEC6F2D939EDA9;
+		};
+		C7DBF34C8D4B8D673D60812F = {
+			isa = PBXTargetDependency;
+			target = D603C56796CEC6F2D939EDA9;
+		};
+		3C072FAE5BB4B67414A80910 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		A1EFD51968BD0153475682E9 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		8ACF1C381521FDA79EA18454 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				COPY_PHASE_STRIP = NO;
+				DEPLOYMENT_LOCATION = YES;
+				DSTROOT = /;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_DEBUG=1",
+					"DEBUG=1",
+					"JUCE_DISPLAY_SPLASH_SCREEN=1",
+					"JUCE_USE_DARK_SPLASH_SCREEN=1",
+					"JUCE_PROJUCER_VERSION=0x60005",
+					"JUCE_MODULE_AVAILABLE_juce_audio_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_devices=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_formats=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_plugin_client=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_processors=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_utils=1",
+					"JUCE_MODULE_AVAILABLE_juce_core=1",
+					"JUCE_MODULE_AVAILABLE_juce_data_structures=1",
+					"JUCE_MODULE_AVAILABLE_juce_events=1",
+					"JUCE_MODULE_AVAILABLE_juce_graphics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_extra=1",
+					"JUCE_GLOBAL_MODULE_SETTINGS_INCLUDED=1",
+					"JUCE_VST3_CAN_REPLACE_VST2=0",
+					"JUCE_STRICT_REFCOUNTEDPOINTER=1",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=1",
+					"JucePlugin_Build_AU=0",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=0",
+					"JucePlugin_Build_Unity=0",
+					"JucePlugin_Enable_IAA=0",
+					"JucePlugin_Name=\\\"DistortionVST3\\\"",
+					"JucePlugin_Desc=\\\"DistortionVST3\\\"",
+					"JucePlugin_Manufacturer=\\\"Axel\\ Dunn\\\"",
+					"JucePlugin_ManufacturerWebsite=\\\"\\\"",
+					"JucePlugin_ManufacturerEmail=\\\"\\\"",
+					"JucePlugin_ManufacturerCode=0x4d616e75",
+					"JucePlugin_PluginCode=0x4d797369",
+					"JucePlugin_IsSynth=0",
+					"JucePlugin_WantsMidiInput=0",
+					"JucePlugin_ProducesMidiOutput=0",
+					"JucePlugin_IsMidiEffect=0",
+					"JucePlugin_EditorRequiresKeyboardFocus=0",
+					"JucePlugin_Version=1.0.0",
+					"JucePlugin_VersionCode=0x10000",
+					"JucePlugin_VersionString=\\\"1.0.0\\\"",
+					"JucePlugin_VSTUniqueID=JucePlugin_PluginCode",
+					"JucePlugin_VSTCategory=kPlugCategEffect",
+					"JucePlugin_Vst3Category=\\\"Fx\\\"",
+					"JucePlugin_AUMainType='aufx'",
+					"JucePlugin_AUSubType=JucePlugin_PluginCode",
+					"JucePlugin_AUExportPrefix=DistortionVST3AU",
+					"JucePlugin_AUExportPrefixQuoted=\\\"DistortionVST3AU\\\"",
+					"JucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_CFBundleIdentifier=com.AxelDunn.DistortionVST3",
+					"JucePlugin_RTASCategory=0",
+					"JucePlugin_RTASManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_RTASProductId=JucePlugin_PluginCode",
+					"JucePlugin_RTASDisableBypass=0",
+					"JucePlugin_RTASDisableMultiMono=0",
+					"JucePlugin_AAXIdentifier=com.AxelDunn.DistortionVST3",
+					"JucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_AAXProductId=JucePlugin_PluginCode",
+					"JucePlugin_AAXCategory=0",
+					"JucePlugin_AAXDisableBypass=0",
+					"JucePlugin_AAXDisableMultiMono=0",
+					"JucePlugin_IAAType=0x61757278",
+					"JucePlugin_IAASubType=JucePlugin_PluginCode",
+					"JucePlugin_IAAName=\\\"Axel\\ Dunn:\\ DistortionVST3\\\"",
+					"JucePlugin_VSTNumMidiInputs=16",
+					"JucePlugin_VSTNumMidiOutputs=16",
+					"JucePlugin_MaxNumInputChannels=2",
+					"JucePlugin_MaxNumOutputChannels=2",
+					"JucePlugin_PreferredChannelConfigurations={1,\\ 1},\\ {2,\\ 2}",
+					"JUCE_STANDALONE_APPLICATION=JucePlugin_Build_Standalone",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GENERATE_PKGINFO_FILE = YES;
+				HEADER_SEARCH_PATHS = (
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"/Users/luke/Documents/myVSTs/VST_SDK/VST2_SDK",
+					"../../JuceLibraryCode",
+					"/Users/luke/Documents/myVSTs/JUCE/modules",
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_plugin_client",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-VST3.plist;
+				INFOPLIST_PREPROCESS = NO;
+				INSTALL_PATH = "$(HOME)/Library/Audio/Plug-Ins/VST3/";
+				LIBRARY_STYLE = Bundle;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_HEADER_SEARCH_PATHS = (
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"/Users/luke/Documents/myVSTs/VST_SDK/VST2_SDK",
+					"../../JuceLibraryCode",
+					"/Users/luke/Documents/myVSTs/JUCE/modules",
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_plugin_client",
+				);
+				OTHER_LDFLAGS = "-bundle -lDistortionVST3";
+				PRODUCT_BUNDLE_IDENTIFIER = com.AxelDunn.DistortionVST3;
+				PRODUCT_NAME = "DistortionVST3";
+				USE_HEADERMAP = NO;
+				VALID_ARCHS = "i386 x86_64 arm64 arm64e";
+				WRAPPER_EXTENSION = vst3;
+			};
+			name = Debug;
+		};
+		D6EB8174796DDF3578DB651D = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				DEAD_CODE_STRIPPING = YES;
+				DEPLOYMENT_LOCATION = YES;
+				DSTROOT = /;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_NDEBUG=1",
+					"NDEBUG=1",
+					"JUCE_DISPLAY_SPLASH_SCREEN=1",
+					"JUCE_USE_DARK_SPLASH_SCREEN=1",
+					"JUCE_PROJUCER_VERSION=0x60005",
+					"JUCE_MODULE_AVAILABLE_juce_audio_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_devices=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_formats=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_plugin_client=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_processors=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_utils=1",
+					"JUCE_MODULE_AVAILABLE_juce_core=1",
+					"JUCE_MODULE_AVAILABLE_juce_data_structures=1",
+					"JUCE_MODULE_AVAILABLE_juce_events=1",
+					"JUCE_MODULE_AVAILABLE_juce_graphics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_extra=1",
+					"JUCE_GLOBAL_MODULE_SETTINGS_INCLUDED=1",
+					"JUCE_VST3_CAN_REPLACE_VST2=0",
+					"JUCE_STRICT_REFCOUNTEDPOINTER=1",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=1",
+					"JucePlugin_Build_AU=0",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=0",
+					"JucePlugin_Build_Unity=0",
+					"JucePlugin_Enable_IAA=0",
+					"JucePlugin_Name=\\\"DistortionVST3\\\"",
+					"JucePlugin_Desc=\\\"DistortionVST3\\\"",
+					"JucePlugin_Manufacturer=\\\"Axel\\ Dunn\\\"",
+					"JucePlugin_ManufacturerWebsite=\\\"\\\"",
+					"JucePlugin_ManufacturerEmail=\\\"\\\"",
+					"JucePlugin_ManufacturerCode=0x4d616e75",
+					"JucePlugin_PluginCode=0x4d797369",
+					"JucePlugin_IsSynth=0",
+					"JucePlugin_WantsMidiInput=0",
+					"JucePlugin_ProducesMidiOutput=0",
+					"JucePlugin_IsMidiEffect=0",
+					"JucePlugin_EditorRequiresKeyboardFocus=0",
+					"JucePlugin_Version=1.0.0",
+					"JucePlugin_VersionCode=0x10000",
+					"JucePlugin_VersionString=\\\"1.0.0\\\"",
+					"JucePlugin_VSTUniqueID=JucePlugin_PluginCode",
+					"JucePlugin_VSTCategory=kPlugCategEffect",
+					"JucePlugin_Vst3Category=\\\"Fx\\\"",
+					"JucePlugin_AUMainType='aufx'",
+					"JucePlugin_AUSubType=JucePlugin_PluginCode",
+					"JucePlugin_AUExportPrefix=DistortionVST3AU",
+					"JucePlugin_AUExportPrefixQuoted=\\\"DistortionVST3AU\\\"",
+					"JucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_CFBundleIdentifier=com.AxelDunn.DistortionVST3",
+					"JucePlugin_RTASCategory=0",
+					"JucePlugin_RTASManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_RTASProductId=JucePlugin_PluginCode",
+					"JucePlugin_RTASDisableBypass=0",
+					"JucePlugin_RTASDisableMultiMono=0",
+					"JucePlugin_AAXIdentifier=com.AxelDunn.DistortionVST3",
+					"JucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_AAXProductId=JucePlugin_PluginCode",
+					"JucePlugin_AAXCategory=0",
+					"JucePlugin_AAXDisableBypass=0",
+					"JucePlugin_AAXDisableMultiMono=0",
+					"JucePlugin_IAAType=0x61757278",
+					"JucePlugin_IAASubType=JucePlugin_PluginCode",
+					"JucePlugin_IAAName=\\\"Axel\\ Dunn:\\ DistortionVST3\\\"",
+					"JucePlugin_VSTNumMidiInputs=16",
+					"JucePlugin_VSTNumMidiOutputs=16",
+					"JucePlugin_MaxNumInputChannels=2",
+					"JucePlugin_MaxNumOutputChannels=2",
+					"JucePlugin_PreferredChannelConfigurations={1,\\ 1},\\ {2,\\ 2}",
+					"JUCE_STANDALONE_APPLICATION=JucePlugin_Build_Standalone",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GENERATE_PKGINFO_FILE = YES;
+				HEADER_SEARCH_PATHS = (
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"/Users/luke/Documents/myVSTs/VST_SDK/VST2_SDK",
+					"../../JuceLibraryCode",
+					"/Users/luke/Documents/myVSTs/JUCE/modules",
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_plugin_client",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-VST3.plist;
+				INFOPLIST_PREPROCESS = NO;
+				INSTALL_PATH = "$(HOME)/Library/Audio/Plug-Ins/VST3/";
+				LIBRARY_STYLE = Bundle;
+				LLVM_LTO = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_HEADER_SEARCH_PATHS = (
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"/Users/luke/Documents/myVSTs/VST_SDK/VST2_SDK",
+					"../../JuceLibraryCode",
+					"/Users/luke/Documents/myVSTs/JUCE/modules",
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_plugin_client",
+				);
+				OTHER_LDFLAGS = "-bundle -lDistortionVST3";
+				PRODUCT_BUNDLE_IDENTIFIER = com.AxelDunn.DistortionVST3;
+				PRODUCT_NAME = "DistortionVST3";
+				USE_HEADERMAP = NO;
+				VALID_ARCHS = "i386 x86_64 arm64 arm64e";
+				WRAPPER_EXTENSION = vst3;
+			};
+			name = Release;
+		};
+		157C4F33B4B0BE3B2799E238 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				COPY_PHASE_STRIP = NO;
+				DEPLOYMENT_LOCATION = YES;
+				DSTROOT = /;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_DEBUG=1",
+					"DEBUG=1",
+					"JUCE_DISPLAY_SPLASH_SCREEN=1",
+					"JUCE_USE_DARK_SPLASH_SCREEN=1",
+					"JUCE_PROJUCER_VERSION=0x60005",
+					"JUCE_MODULE_AVAILABLE_juce_audio_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_devices=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_formats=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_plugin_client=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_processors=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_utils=1",
+					"JUCE_MODULE_AVAILABLE_juce_core=1",
+					"JUCE_MODULE_AVAILABLE_juce_data_structures=1",
+					"JUCE_MODULE_AVAILABLE_juce_events=1",
+					"JUCE_MODULE_AVAILABLE_juce_graphics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_extra=1",
+					"JUCE_GLOBAL_MODULE_SETTINGS_INCLUDED=1",
+					"JUCE_VST3_CAN_REPLACE_VST2=0",
+					"JUCE_STRICT_REFCOUNTEDPOINTER=1",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=0",
+					"JucePlugin_Build_AU=1",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=0",
+					"JucePlugin_Build_Unity=0",
+					"JucePlugin_Enable_IAA=0",
+					"JucePlugin_Name=\\\"DistortionVST3\\\"",
+					"JucePlugin_Desc=\\\"DistortionVST3\\\"",
+					"JucePlugin_Manufacturer=\\\"Axel\\ Dunn\\\"",
+					"JucePlugin_ManufacturerWebsite=\\\"\\\"",
+					"JucePlugin_ManufacturerEmail=\\\"\\\"",
+					"JucePlugin_ManufacturerCode=0x4d616e75",
+					"JucePlugin_PluginCode=0x4d797369",
+					"JucePlugin_IsSynth=0",
+					"JucePlugin_WantsMidiInput=0",
+					"JucePlugin_ProducesMidiOutput=0",
+					"JucePlugin_IsMidiEffect=0",
+					"JucePlugin_EditorRequiresKeyboardFocus=0",
+					"JucePlugin_Version=1.0.0",
+					"JucePlugin_VersionCode=0x10000",
+					"JucePlugin_VersionString=\\\"1.0.0\\\"",
+					"JucePlugin_VSTUniqueID=JucePlugin_PluginCode",
+					"JucePlugin_VSTCategory=kPlugCategEffect",
+					"JucePlugin_Vst3Category=\\\"Fx\\\"",
+					"JucePlugin_AUMainType='aufx'",
+					"JucePlugin_AUSubType=JucePlugin_PluginCode",
+					"JucePlugin_AUExportPrefix=DistortionVST3AU",
+					"JucePlugin_AUExportPrefixQuoted=\\\"DistortionVST3AU\\\"",
+					"JucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_CFBundleIdentifier=com.AxelDunn.DistortionVST3",
+					"JucePlugin_RTASCategory=0",
+					"JucePlugin_RTASManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_RTASProductId=JucePlugin_PluginCode",
+					"JucePlugin_RTASDisableBypass=0",
+					"JucePlugin_RTASDisableMultiMono=0",
+					"JucePlugin_AAXIdentifier=com.AxelDunn.DistortionVST3",
+					"JucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_AAXProductId=JucePlugin_PluginCode",
+					"JucePlugin_AAXCategory=0",
+					"JucePlugin_AAXDisableBypass=0",
+					"JucePlugin_AAXDisableMultiMono=0",
+					"JucePlugin_IAAType=0x61757278",
+					"JucePlugin_IAASubType=JucePlugin_PluginCode",
+					"JucePlugin_IAAName=\\\"Axel\\ Dunn:\\ DistortionVST3\\\"",
+					"JucePlugin_VSTNumMidiInputs=16",
+					"JucePlugin_VSTNumMidiOutputs=16",
+					"JucePlugin_MaxNumInputChannels=2",
+					"JucePlugin_MaxNumOutputChannels=2",
+					"JucePlugin_PreferredChannelConfigurations={1,\\ 1},\\ {2,\\ 2}",
+					"JUCE_STANDALONE_APPLICATION=JucePlugin_Build_Standalone",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GENERATE_PKGINFO_FILE = YES;
+				HEADER_SEARCH_PATHS = (
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"/Users/luke/Documents/myVSTs/VST_SDK/VST2_SDK",
+					"../../JuceLibraryCode",
+					"/Users/luke/Documents/myVSTs/JUCE/modules",
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_plugin_client",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-AU.plist;
+				INFOPLIST_PREPROCESS = NO;
+				INSTALL_PATH = "$(HOME)/Library/Audio/Plug-Ins/Components/";
+				LIBRARY_STYLE = Bundle;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_HEADER_SEARCH_PATHS = (
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"/Users/luke/Documents/myVSTs/VST_SDK/VST2_SDK",
+					"../../JuceLibraryCode",
+					"/Users/luke/Documents/myVSTs/JUCE/modules",
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_plugin_client",
+				);
+				OTHER_LDFLAGS = "-bundle -lDistortionVST3";
+				OTHER_REZFLAGS = "-d ppc_$ppc -d i386_$i386 -d ppc64_$ppc64 -d x86_64_$x86_64 -I /System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Versions/A/Headers -I \"$(DEVELOPER_DIR)/Extras/CoreAudio/AudioUnits/AUPublic/AUBase\" -I \"$(DEVELOPER_DIR)/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/AudioUnit.framework/Headers\"";
+				PRODUCT_BUNDLE_IDENTIFIER = com.AxelDunn.DistortionVST3;
+				PRODUCT_NAME = "DistortionVST3";
+				USE_HEADERMAP = NO;
+				VALID_ARCHS = "i386 x86_64 arm64 arm64e";
+				WRAPPER_EXTENSION = component;
+			};
+			name = Debug;
+		};
+		0098B31CD5530C447BC6A548 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				DEAD_CODE_STRIPPING = YES;
+				DEPLOYMENT_LOCATION = YES;
+				DSTROOT = /;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_NDEBUG=1",
+					"NDEBUG=1",
+					"JUCE_DISPLAY_SPLASH_SCREEN=1",
+					"JUCE_USE_DARK_SPLASH_SCREEN=1",
+					"JUCE_PROJUCER_VERSION=0x60005",
+					"JUCE_MODULE_AVAILABLE_juce_audio_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_devices=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_formats=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_plugin_client=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_processors=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_utils=1",
+					"JUCE_MODULE_AVAILABLE_juce_core=1",
+					"JUCE_MODULE_AVAILABLE_juce_data_structures=1",
+					"JUCE_MODULE_AVAILABLE_juce_events=1",
+					"JUCE_MODULE_AVAILABLE_juce_graphics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_extra=1",
+					"JUCE_GLOBAL_MODULE_SETTINGS_INCLUDED=1",
+					"JUCE_VST3_CAN_REPLACE_VST2=0",
+					"JUCE_STRICT_REFCOUNTEDPOINTER=1",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=0",
+					"JucePlugin_Build_AU=1",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=0",
+					"JucePlugin_Build_Unity=0",
+					"JucePlugin_Enable_IAA=0",
+					"JucePlugin_Name=\\\"DistortionVST3\\\"",
+					"JucePlugin_Desc=\\\"DistortionVST3\\\"",
+					"JucePlugin_Manufacturer=\\\"Axel\\ Dunn\\\"",
+					"JucePlugin_ManufacturerWebsite=\\\"\\\"",
+					"JucePlugin_ManufacturerEmail=\\\"\\\"",
+					"JucePlugin_ManufacturerCode=0x4d616e75",
+					"JucePlugin_PluginCode=0x4d797369",
+					"JucePlugin_IsSynth=0",
+					"JucePlugin_WantsMidiInput=0",
+					"JucePlugin_ProducesMidiOutput=0",
+					"JucePlugin_IsMidiEffect=0",
+					"JucePlugin_EditorRequiresKeyboardFocus=0",
+					"JucePlugin_Version=1.0.0",
+					"JucePlugin_VersionCode=0x10000",
+					"JucePlugin_VersionString=\\\"1.0.0\\\"",
+					"JucePlugin_VSTUniqueID=JucePlugin_PluginCode",
+					"JucePlugin_VSTCategory=kPlugCategEffect",
+					"JucePlugin_Vst3Category=\\\"Fx\\\"",
+					"JucePlugin_AUMainType='aufx'",
+					"JucePlugin_AUSubType=JucePlugin_PluginCode",
+					"JucePlugin_AUExportPrefix=DistortionVST3AU",
+					"JucePlugin_AUExportPrefixQuoted=\\\"DistortionVST3AU\\\"",
+					"JucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_CFBundleIdentifier=com.AxelDunn.DistortionVST3",
+					"JucePlugin_RTASCategory=0",
+					"JucePlugin_RTASManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_RTASProductId=JucePlugin_PluginCode",
+					"JucePlugin_RTASDisableBypass=0",
+					"JucePlugin_RTASDisableMultiMono=0",
+					"JucePlugin_AAXIdentifier=com.AxelDunn.DistortionVST3",
+					"JucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_AAXProductId=JucePlugin_PluginCode",
+					"JucePlugin_AAXCategory=0",
+					"JucePlugin_AAXDisableBypass=0",
+					"JucePlugin_AAXDisableMultiMono=0",
+					"JucePlugin_IAAType=0x61757278",
+					"JucePlugin_IAASubType=JucePlugin_PluginCode",
+					"JucePlugin_IAAName=\\\"Axel\\ Dunn:\\ DistortionVST3\\\"",
+					"JucePlugin_VSTNumMidiInputs=16",
+					"JucePlugin_VSTNumMidiOutputs=16",
+					"JucePlugin_MaxNumInputChannels=2",
+					"JucePlugin_MaxNumOutputChannels=2",
+					"JucePlugin_PreferredChannelConfigurations={1,\\ 1},\\ {2,\\ 2}",
+					"JUCE_STANDALONE_APPLICATION=JucePlugin_Build_Standalone",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GENERATE_PKGINFO_FILE = YES;
+				HEADER_SEARCH_PATHS = (
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"/Users/luke/Documents/myVSTs/VST_SDK/VST2_SDK",
+					"../../JuceLibraryCode",
+					"/Users/luke/Documents/myVSTs/JUCE/modules",
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_plugin_client",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-AU.plist;
+				INFOPLIST_PREPROCESS = NO;
+				INSTALL_PATH = "$(HOME)/Library/Audio/Plug-Ins/Components/";
+				LIBRARY_STYLE = Bundle;
+				LLVM_LTO = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_HEADER_SEARCH_PATHS = (
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"/Users/luke/Documents/myVSTs/VST_SDK/VST2_SDK",
+					"../../JuceLibraryCode",
+					"/Users/luke/Documents/myVSTs/JUCE/modules",
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_plugin_client",
+				);
+				OTHER_LDFLAGS = "-bundle -lDistortionVST3";
+				OTHER_REZFLAGS = "-d ppc_$ppc -d i386_$i386 -d ppc64_$ppc64 -d x86_64_$x86_64 -I /System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Versions/A/Headers -I \"$(DEVELOPER_DIR)/Extras/CoreAudio/AudioUnits/AUPublic/AUBase\" -I \"$(DEVELOPER_DIR)/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/AudioUnit.framework/Headers\"";
+				PRODUCT_BUNDLE_IDENTIFIER = com.AxelDunn.DistortionVST3;
+				PRODUCT_NAME = "DistortionVST3";
+				USE_HEADERMAP = NO;
+				VALID_ARCHS = "i386 x86_64 arm64 arm64e";
+				WRAPPER_EXTENSION = component;
+			};
+			name = Release;
+		};
+		209204B8D1391F2C4EFBDDBC = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_DEBUG=1",
+					"DEBUG=1",
+					"JUCE_DISPLAY_SPLASH_SCREEN=1",
+					"JUCE_USE_DARK_SPLASH_SCREEN=1",
+					"JUCE_PROJUCER_VERSION=0x60005",
+					"JUCE_MODULE_AVAILABLE_juce_audio_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_devices=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_formats=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_plugin_client=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_processors=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_utils=1",
+					"JUCE_MODULE_AVAILABLE_juce_core=1",
+					"JUCE_MODULE_AVAILABLE_juce_data_structures=1",
+					"JUCE_MODULE_AVAILABLE_juce_events=1",
+					"JUCE_MODULE_AVAILABLE_juce_graphics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_extra=1",
+					"JUCE_GLOBAL_MODULE_SETTINGS_INCLUDED=1",
+					"JUCE_VST3_CAN_REPLACE_VST2=0",
+					"JUCE_STRICT_REFCOUNTEDPOINTER=1",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=0",
+					"JucePlugin_Build_AU=0",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=1",
+					"JucePlugin_Build_Unity=0",
+					"JucePlugin_Enable_IAA=0",
+					"JucePlugin_Name=\\\"DistortionVST3\\\"",
+					"JucePlugin_Desc=\\\"DistortionVST3\\\"",
+					"JucePlugin_Manufacturer=\\\"Axel\\ Dunn\\\"",
+					"JucePlugin_ManufacturerWebsite=\\\"\\\"",
+					"JucePlugin_ManufacturerEmail=\\\"\\\"",
+					"JucePlugin_ManufacturerCode=0x4d616e75",
+					"JucePlugin_PluginCode=0x4d797369",
+					"JucePlugin_IsSynth=0",
+					"JucePlugin_WantsMidiInput=0",
+					"JucePlugin_ProducesMidiOutput=0",
+					"JucePlugin_IsMidiEffect=0",
+					"JucePlugin_EditorRequiresKeyboardFocus=0",
+					"JucePlugin_Version=1.0.0",
+					"JucePlugin_VersionCode=0x10000",
+					"JucePlugin_VersionString=\\\"1.0.0\\\"",
+					"JucePlugin_VSTUniqueID=JucePlugin_PluginCode",
+					"JucePlugin_VSTCategory=kPlugCategEffect",
+					"JucePlugin_Vst3Category=\\\"Fx\\\"",
+					"JucePlugin_AUMainType='aufx'",
+					"JucePlugin_AUSubType=JucePlugin_PluginCode",
+					"JucePlugin_AUExportPrefix=DistortionVST3AU",
+					"JucePlugin_AUExportPrefixQuoted=\\\"DistortionVST3AU\\\"",
+					"JucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_CFBundleIdentifier=com.AxelDunn.DistortionVST3",
+					"JucePlugin_RTASCategory=0",
+					"JucePlugin_RTASManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_RTASProductId=JucePlugin_PluginCode",
+					"JucePlugin_RTASDisableBypass=0",
+					"JucePlugin_RTASDisableMultiMono=0",
+					"JucePlugin_AAXIdentifier=com.AxelDunn.DistortionVST3",
+					"JucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_AAXProductId=JucePlugin_PluginCode",
+					"JucePlugin_AAXCategory=0",
+					"JucePlugin_AAXDisableBypass=0",
+					"JucePlugin_AAXDisableMultiMono=0",
+					"JucePlugin_IAAType=0x61757278",
+					"JucePlugin_IAASubType=JucePlugin_PluginCode",
+					"JucePlugin_IAAName=\\\"Axel\\ Dunn:\\ DistortionVST3\\\"",
+					"JucePlugin_VSTNumMidiInputs=16",
+					"JucePlugin_VSTNumMidiOutputs=16",
+					"JucePlugin_MaxNumInputChannels=2",
+					"JucePlugin_MaxNumOutputChannels=2",
+					"JucePlugin_PreferredChannelConfigurations={1,\\ 1},\\ {2,\\ 2}",
+					"JUCE_STANDALONE_APPLICATION=JucePlugin_Build_Standalone",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"/Users/luke/Documents/myVSTs/VST_SDK/VST2_SDK",
+					"../../JuceLibraryCode",
+					"/Users/luke/Documents/myVSTs/JUCE/modules",
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_plugin_client",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-Standalone_Plugin.plist;
+				INFOPLIST_PREPROCESS = NO;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_HEADER_SEARCH_PATHS = (
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"/Users/luke/Documents/myVSTs/VST_SDK/VST2_SDK",
+					"../../JuceLibraryCode",
+					"/Users/luke/Documents/myVSTs/JUCE/modules",
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_plugin_client",
+				);
+				OTHER_LDFLAGS = "-lDistortionVST3";
+				PRODUCT_BUNDLE_IDENTIFIER = com.AxelDunn.DistortionVST3;
+				PRODUCT_NAME = "DistortionVST3";
+				USE_HEADERMAP = NO;
+				VALID_ARCHS = "i386 x86_64 arm64 arm64e";
+			};
+			name = Debug;
+		};
+		7ACB61249EDFBF1CC1BE8603 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				DEAD_CODE_STRIPPING = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_NDEBUG=1",
+					"NDEBUG=1",
+					"JUCE_DISPLAY_SPLASH_SCREEN=1",
+					"JUCE_USE_DARK_SPLASH_SCREEN=1",
+					"JUCE_PROJUCER_VERSION=0x60005",
+					"JUCE_MODULE_AVAILABLE_juce_audio_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_devices=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_formats=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_plugin_client=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_processors=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_utils=1",
+					"JUCE_MODULE_AVAILABLE_juce_core=1",
+					"JUCE_MODULE_AVAILABLE_juce_data_structures=1",
+					"JUCE_MODULE_AVAILABLE_juce_events=1",
+					"JUCE_MODULE_AVAILABLE_juce_graphics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_extra=1",
+					"JUCE_GLOBAL_MODULE_SETTINGS_INCLUDED=1",
+					"JUCE_VST3_CAN_REPLACE_VST2=0",
+					"JUCE_STRICT_REFCOUNTEDPOINTER=1",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=0",
+					"JucePlugin_Build_AU=0",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=1",
+					"JucePlugin_Build_Unity=0",
+					"JucePlugin_Enable_IAA=0",
+					"JucePlugin_Name=\\\"DistortionVST3\\\"",
+					"JucePlugin_Desc=\\\"DistortionVST3\\\"",
+					"JucePlugin_Manufacturer=\\\"Axel\\ Dunn\\\"",
+					"JucePlugin_ManufacturerWebsite=\\\"\\\"",
+					"JucePlugin_ManufacturerEmail=\\\"\\\"",
+					"JucePlugin_ManufacturerCode=0x4d616e75",
+					"JucePlugin_PluginCode=0x4d797369",
+					"JucePlugin_IsSynth=0",
+					"JucePlugin_WantsMidiInput=0",
+					"JucePlugin_ProducesMidiOutput=0",
+					"JucePlugin_IsMidiEffect=0",
+					"JucePlugin_EditorRequiresKeyboardFocus=0",
+					"JucePlugin_Version=1.0.0",
+					"JucePlugin_VersionCode=0x10000",
+					"JucePlugin_VersionString=\\\"1.0.0\\\"",
+					"JucePlugin_VSTUniqueID=JucePlugin_PluginCode",
+					"JucePlugin_VSTCategory=kPlugCategEffect",
+					"JucePlugin_Vst3Category=\\\"Fx\\\"",
+					"JucePlugin_AUMainType='aufx'",
+					"JucePlugin_AUSubType=JucePlugin_PluginCode",
+					"JucePlugin_AUExportPrefix=DistortionVST3AU",
+					"JucePlugin_AUExportPrefixQuoted=\\\"DistortionVST3AU\\\"",
+					"JucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_CFBundleIdentifier=com.AxelDunn.DistortionVST3",
+					"JucePlugin_RTASCategory=0",
+					"JucePlugin_RTASManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_RTASProductId=JucePlugin_PluginCode",
+					"JucePlugin_RTASDisableBypass=0",
+					"JucePlugin_RTASDisableMultiMono=0",
+					"JucePlugin_AAXIdentifier=com.AxelDunn.DistortionVST3",
+					"JucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_AAXProductId=JucePlugin_PluginCode",
+					"JucePlugin_AAXCategory=0",
+					"JucePlugin_AAXDisableBypass=0",
+					"JucePlugin_AAXDisableMultiMono=0",
+					"JucePlugin_IAAType=0x61757278",
+					"JucePlugin_IAASubType=JucePlugin_PluginCode",
+					"JucePlugin_IAAName=\\\"Axel\\ Dunn:\\ DistortionVST3\\\"",
+					"JucePlugin_VSTNumMidiInputs=16",
+					"JucePlugin_VSTNumMidiOutputs=16",
+					"JucePlugin_MaxNumInputChannels=2",
+					"JucePlugin_MaxNumOutputChannels=2",
+					"JucePlugin_PreferredChannelConfigurations={1,\\ 1},\\ {2,\\ 2}",
+					"JUCE_STANDALONE_APPLICATION=JucePlugin_Build_Standalone",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"/Users/luke/Documents/myVSTs/VST_SDK/VST2_SDK",
+					"../../JuceLibraryCode",
+					"/Users/luke/Documents/myVSTs/JUCE/modules",
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_plugin_client",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-Standalone_Plugin.plist;
+				INFOPLIST_PREPROCESS = NO;
+				LLVM_LTO = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_HEADER_SEARCH_PATHS = (
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"/Users/luke/Documents/myVSTs/VST_SDK/VST2_SDK",
+					"../../JuceLibraryCode",
+					"/Users/luke/Documents/myVSTs/JUCE/modules",
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_plugin_client",
+				);
+				OTHER_LDFLAGS = "-lDistortionVST3";
+				PRODUCT_BUNDLE_IDENTIFIER = com.AxelDunn.DistortionVST3;
+				PRODUCT_NAME = "DistortionVST3";
+				USE_HEADERMAP = NO;
+				VALID_ARCHS = "i386 x86_64 arm64 arm64e";
+			};
+			name = Release;
+		};
+		C322877AC52125826FC23A8C = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_DEBUG=1",
+					"DEBUG=1",
+					"JUCE_DISPLAY_SPLASH_SCREEN=1",
+					"JUCE_USE_DARK_SPLASH_SCREEN=1",
+					"JUCE_PROJUCER_VERSION=0x60005",
+					"JUCE_MODULE_AVAILABLE_juce_audio_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_devices=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_formats=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_plugin_client=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_processors=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_utils=1",
+					"JUCE_MODULE_AVAILABLE_juce_core=1",
+					"JUCE_MODULE_AVAILABLE_juce_data_structures=1",
+					"JUCE_MODULE_AVAILABLE_juce_events=1",
+					"JUCE_MODULE_AVAILABLE_juce_graphics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_extra=1",
+					"JUCE_GLOBAL_MODULE_SETTINGS_INCLUDED=1",
+					"JUCE_VST3_CAN_REPLACE_VST2=0",
+					"JUCE_STRICT_REFCOUNTEDPOINTER=1",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=1",
+					"JucePlugin_Build_AU=1",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=1",
+					"JucePlugin_Build_Unity=0",
+					"JucePlugin_Enable_IAA=0",
+					"JucePlugin_Name=\\\"DistortionVST3\\\"",
+					"JucePlugin_Desc=\\\"DistortionVST3\\\"",
+					"JucePlugin_Manufacturer=\\\"Axel\\ Dunn\\\"",
+					"JucePlugin_ManufacturerWebsite=\\\"\\\"",
+					"JucePlugin_ManufacturerEmail=\\\"\\\"",
+					"JucePlugin_ManufacturerCode=0x4d616e75",
+					"JucePlugin_PluginCode=0x4d797369",
+					"JucePlugin_IsSynth=0",
+					"JucePlugin_WantsMidiInput=0",
+					"JucePlugin_ProducesMidiOutput=0",
+					"JucePlugin_IsMidiEffect=0",
+					"JucePlugin_EditorRequiresKeyboardFocus=0",
+					"JucePlugin_Version=1.0.0",
+					"JucePlugin_VersionCode=0x10000",
+					"JucePlugin_VersionString=\\\"1.0.0\\\"",
+					"JucePlugin_VSTUniqueID=JucePlugin_PluginCode",
+					"JucePlugin_VSTCategory=kPlugCategEffect",
+					"JucePlugin_Vst3Category=\\\"Fx\\\"",
+					"JucePlugin_AUMainType='aufx'",
+					"JucePlugin_AUSubType=JucePlugin_PluginCode",
+					"JucePlugin_AUExportPrefix=DistortionVST3AU",
+					"JucePlugin_AUExportPrefixQuoted=\\\"DistortionVST3AU\\\"",
+					"JucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_CFBundleIdentifier=com.AxelDunn.DistortionVST3",
+					"JucePlugin_RTASCategory=0",
+					"JucePlugin_RTASManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_RTASProductId=JucePlugin_PluginCode",
+					"JucePlugin_RTASDisableBypass=0",
+					"JucePlugin_RTASDisableMultiMono=0",
+					"JucePlugin_AAXIdentifier=com.AxelDunn.DistortionVST3",
+					"JucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_AAXProductId=JucePlugin_PluginCode",
+					"JucePlugin_AAXCategory=0",
+					"JucePlugin_AAXDisableBypass=0",
+					"JucePlugin_AAXDisableMultiMono=0",
+					"JucePlugin_IAAType=0x61757278",
+					"JucePlugin_IAASubType=JucePlugin_PluginCode",
+					"JucePlugin_IAAName=\\\"Axel\\ Dunn:\\ DistortionVST3\\\"",
+					"JucePlugin_VSTNumMidiInputs=16",
+					"JucePlugin_VSTNumMidiOutputs=16",
+					"JucePlugin_MaxNumInputChannels=2",
+					"JucePlugin_MaxNumOutputChannels=2",
+					"JucePlugin_PreferredChannelConfigurations={1,\\ 1},\\ {2,\\ 2}",
+					"JUCE_STANDALONE_APPLICATION=JucePlugin_Build_Standalone",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+					"JUCE_SHARED_CODE=1",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"/Users/luke/Documents/myVSTs/VST_SDK/VST2_SDK",
+					"../../JuceLibraryCode",
+					"/Users/luke/Documents/myVSTs/JUCE/modules",
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_plugin_client",
+					"$(inherited)",
+				);
+				INSTALL_PATH = "@executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_HEADER_SEARCH_PATHS = (
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"/Users/luke/Documents/myVSTs/VST_SDK/VST2_SDK",
+					"../../JuceLibraryCode",
+					"/Users/luke/Documents/myVSTs/JUCE/modules",
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_plugin_client",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.AxelDunn.DistortionVST3;
+				PRODUCT_NAME = "DistortionVST3";
+				SKIP_INSTALL = YES;
+				USE_HEADERMAP = NO;
+				VALID_ARCHS = "i386 x86_64 arm64 arm64e";
+			};
+			name = Debug;
+		};
+		F56B5450FFF8FEB64D4DD3F7 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				DEAD_CODE_STRIPPING = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_NDEBUG=1",
+					"NDEBUG=1",
+					"JUCE_DISPLAY_SPLASH_SCREEN=1",
+					"JUCE_USE_DARK_SPLASH_SCREEN=1",
+					"JUCE_PROJUCER_VERSION=0x60005",
+					"JUCE_MODULE_AVAILABLE_juce_audio_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_devices=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_formats=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_plugin_client=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_processors=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_utils=1",
+					"JUCE_MODULE_AVAILABLE_juce_core=1",
+					"JUCE_MODULE_AVAILABLE_juce_data_structures=1",
+					"JUCE_MODULE_AVAILABLE_juce_events=1",
+					"JUCE_MODULE_AVAILABLE_juce_graphics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_extra=1",
+					"JUCE_GLOBAL_MODULE_SETTINGS_INCLUDED=1",
+					"JUCE_VST3_CAN_REPLACE_VST2=0",
+					"JUCE_STRICT_REFCOUNTEDPOINTER=1",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=1",
+					"JucePlugin_Build_AU=1",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=1",
+					"JucePlugin_Build_Unity=0",
+					"JucePlugin_Enable_IAA=0",
+					"JucePlugin_Name=\\\"DistortionVST3\\\"",
+					"JucePlugin_Desc=\\\"DistortionVST3\\\"",
+					"JucePlugin_Manufacturer=\\\"Axel\\ Dunn\\\"",
+					"JucePlugin_ManufacturerWebsite=\\\"\\\"",
+					"JucePlugin_ManufacturerEmail=\\\"\\\"",
+					"JucePlugin_ManufacturerCode=0x4d616e75",
+					"JucePlugin_PluginCode=0x4d797369",
+					"JucePlugin_IsSynth=0",
+					"JucePlugin_WantsMidiInput=0",
+					"JucePlugin_ProducesMidiOutput=0",
+					"JucePlugin_IsMidiEffect=0",
+					"JucePlugin_EditorRequiresKeyboardFocus=0",
+					"JucePlugin_Version=1.0.0",
+					"JucePlugin_VersionCode=0x10000",
+					"JucePlugin_VersionString=\\\"1.0.0\\\"",
+					"JucePlugin_VSTUniqueID=JucePlugin_PluginCode",
+					"JucePlugin_VSTCategory=kPlugCategEffect",
+					"JucePlugin_Vst3Category=\\\"Fx\\\"",
+					"JucePlugin_AUMainType='aufx'",
+					"JucePlugin_AUSubType=JucePlugin_PluginCode",
+					"JucePlugin_AUExportPrefix=DistortionVST3AU",
+					"JucePlugin_AUExportPrefixQuoted=\\\"DistortionVST3AU\\\"",
+					"JucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_CFBundleIdentifier=com.AxelDunn.DistortionVST3",
+					"JucePlugin_RTASCategory=0",
+					"JucePlugin_RTASManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_RTASProductId=JucePlugin_PluginCode",
+					"JucePlugin_RTASDisableBypass=0",
+					"JucePlugin_RTASDisableMultiMono=0",
+					"JucePlugin_AAXIdentifier=com.AxelDunn.DistortionVST3",
+					"JucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_AAXProductId=JucePlugin_PluginCode",
+					"JucePlugin_AAXCategory=0",
+					"JucePlugin_AAXDisableBypass=0",
+					"JucePlugin_AAXDisableMultiMono=0",
+					"JucePlugin_IAAType=0x61757278",
+					"JucePlugin_IAASubType=JucePlugin_PluginCode",
+					"JucePlugin_IAAName=\\\"Axel\\ Dunn:\\ DistortionVST3\\\"",
+					"JucePlugin_VSTNumMidiInputs=16",
+					"JucePlugin_VSTNumMidiOutputs=16",
+					"JucePlugin_MaxNumInputChannels=2",
+					"JucePlugin_MaxNumOutputChannels=2",
+					"JucePlugin_PreferredChannelConfigurations={1,\\ 1},\\ {2,\\ 2}",
+					"JUCE_STANDALONE_APPLICATION=JucePlugin_Build_Standalone",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+					"JUCE_SHARED_CODE=1",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"/Users/luke/Documents/myVSTs/VST_SDK/VST2_SDK",
+					"../../JuceLibraryCode",
+					"/Users/luke/Documents/myVSTs/JUCE/modules",
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_plugin_client",
+					"$(inherited)",
+				);
+				INSTALL_PATH = "@executable_path/../Frameworks";
+				LLVM_LTO = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_HEADER_SEARCH_PATHS = (
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"/Users/luke/Documents/myVSTs/VST_SDK/VST2_SDK",
+					"../../JuceLibraryCode",
+					"/Users/luke/Documents/myVSTs/JUCE/modules",
+					"/Users/luke/Documents/myVSTs/JUCE/modules/juce_audio_plugin_client",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.AxelDunn.DistortionVST3;
+				PRODUCT_NAME = "DistortionVST3";
+				SKIP_INSTALL = YES;
+				USE_HEADERMAP = NO;
+				VALID_ARCHS = "i386 x86_64 arm64 arm64e";
+			};
+			name = Release;
+		};
+		96C64CF5CC22B9E5450C2DD5 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = NO;
+				GCC_C_LANGUAGE_STANDARD = c11;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_SYMBOLS_PRIVATE_EXTERN = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_CHECK_SWITCH_STATEMENTS = YES;
+				GCC_WARN_MISSING_PARENTHESES = YES;
+				GCC_WARN_NON_VIRTUAL_DESTRUCTOR = YES;
+				GCC_WARN_TYPECHECK_CALLS_TO_PRINTF = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "DistortionVST3";
+				SDKROOT = macosx;
+				WARNING_CFLAGS = "-Wreorder";
+				ZERO_LINK = NO;
+			};
+			name = Debug;
+		};
+		D11780011B2FB79594E72516 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = NO;
+				GCC_C_LANGUAGE_STANDARD = c11;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_SYMBOLS_PRIVATE_EXTERN = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_CHECK_SWITCH_STATEMENTS = YES;
+				GCC_WARN_MISSING_PARENTHESES = YES;
+				GCC_WARN_NON_VIRTUAL_DESTRUCTOR = YES;
+				GCC_WARN_TYPECHECK_CALLS_TO_PRINTF = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PRODUCT_NAME = "DistortionVST3";
+				SDKROOT = macosx;
+				WARNING_CFLAGS = "-Wreorder";
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+		98870B15714EE07F76455444 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				96C64CF5CC22B9E5450C2DD5,
+				D11780011B2FB79594E72516,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		1943E5B306F3A3C8E398F1B4 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3C072FAE5BB4B67414A80910,
+				A1EFD51968BD0153475682E9,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		C19A1FE1E081E996505BAE90 = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 1943E5B306F3A3C8E398F1B4;
+			buildPhases = ( );
+			buildRules = ( );
+			dependencies = (
+				50673052FECC957A5BB331FC,
+				0DBDE09D176D6D7E17C34AD4,
+				A8ECCFBE98EEF14FD8A01F07,
+				EAF7EE281A89A7AF15A65C77,
+			);
+			name = "DistortionVST3 - All";
+			productName = DistortionVST3;
+		};
+		83AEE98A49D6BC906D12D0BB = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8ACF1C381521FDA79EA18454,
+				D6EB8174796DDF3578DB651D,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		53D05D1730ADC27E5C9BDAC7 = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7C50C6CAFE5F3E8AE3F95335,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		10E3D5E2E3E442FC23D8AB6D = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				026A60927D576F223640064B,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B7515CAA3235E4C05B6FB942 = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				543C04F797A006BB6B89E61B,
+				95B93B23F382B2333A125B5B,
+				75FF6FF7BCC59980C2C836ED,
+				1D7E50EC67D29C3EDA714112,
+				B7D41B2EE93417C9FA5235FE,
+				B65843AA1D205F06E3E2A8B3,
+				24ED62E1631117A47659E55C,
+				00DD8AB20C9590D845BEFDF8,
+				21C8274E3A104C42CCCED715,
+				F0330721B77A0798B5BDB0D8,
+				0AE7825D700D7B5B5CA178C0,
+				424004F1D1C0AB14AFF3E701,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		17EAF302CDB5F3EB7882F8CD = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 83AEE98A49D6BC906D12D0BB;
+			buildPhases = (
+				53D05D1730ADC27E5C9BDAC7,
+				10E3D5E2E3E442FC23D8AB6D,
+				B7515CAA3235E4C05B6FB942,
+			);
+			buildRules = ( );
+			dependencies = (
+				2916E1215D08FF2D266C4E05,
+			);
+			name = "DistortionVST3 - VST3";
+			productName = DistortionVST3;
+			productReference = 73B8E3FC20A5F352A0F60F33;
+			productType = "com.apple.product-type.bundle";
+		};
+		F26FB3BA341BCF9BD1007913 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				157C4F33B4B0BE3B2799E238,
+				0098B31CD5530C447BC6A548,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		5FE178628FC750E0618EB296 = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7C50C6CAFE5F3E8AE3F95335,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D879F2647DA9EC0B3D41F406 = {
+			isa = PBXRezBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				17B4EE27055B232FBB078A5A,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D0F919D09D701B9D0718F169 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				25940E2441A069DB17CC3249,
+				24725815DAEE3DBC747CBF32,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CDE5396A539DA6736374AC52 = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E10F99BE5B95B43819EF6AB7,
+				543C04F797A006BB6B89E61B,
+				95B93B23F382B2333A125B5B,
+				75FF6FF7BCC59980C2C836ED,
+				1D7E50EC67D29C3EDA714112,
+				B7D41B2EE93417C9FA5235FE,
+				B65843AA1D205F06E3E2A8B3,
+				24ED62E1631117A47659E55C,
+				00DD8AB20C9590D845BEFDF8,
+				21C8274E3A104C42CCCED715,
+				F0330721B77A0798B5BDB0D8,
+				0AE7825D700D7B5B5CA178C0,
+				424004F1D1C0AB14AFF3E701,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DDF073A53297C26C45CDF1C9 = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F26FB3BA341BCF9BD1007913;
+			buildPhases = (
+				5FE178628FC750E0618EB296,
+				D879F2647DA9EC0B3D41F406,
+				D0F919D09D701B9D0718F169,
+				CDE5396A539DA6736374AC52,
+			);
+			buildRules = ( );
+			dependencies = (
+				5ABE0C3A46CA9FEE6AD4D674,
+			);
+			name = "DistortionVST3 - AU";
+			productName = DistortionVST3;
+			productReference = 0A967B895E0E0A61BAC28094;
+			productType = "com.apple.product-type.bundle";
+		};
+		545F453FAB28A0B52C6570ED = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				209204B8D1391F2C4EFBDDBC,
+				7ACB61249EDFBF1CC1BE8603,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		26923456219AEAD424996824 = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7C50C6CAFE5F3E8AE3F95335,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9CF1C22E97AD6D2452D22524 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				722BA6438142B1DAA414BB19,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		98B97E12602E0C734760F9AC = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				543C04F797A006BB6B89E61B,
+				95B93B23F382B2333A125B5B,
+				75FF6FF7BCC59980C2C836ED,
+				1D7E50EC67D29C3EDA714112,
+				B7D41B2EE93417C9FA5235FE,
+				B65843AA1D205F06E3E2A8B3,
+				24ED62E1631117A47659E55C,
+				00DD8AB20C9590D845BEFDF8,
+				21C8274E3A104C42CCCED715,
+				F0330721B77A0798B5BDB0D8,
+				0AE7825D700D7B5B5CA178C0,
+				424004F1D1C0AB14AFF3E701,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		14D2E8531EF60AAE67097260 = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 545F453FAB28A0B52C6570ED;
+			buildPhases = (
+				26923456219AEAD424996824,
+				9CF1C22E97AD6D2452D22524,
+				98B97E12602E0C734760F9AC,
+			);
+			buildRules = ( );
+			dependencies = (
+				C7DBF34C8D4B8D673D60812F,
+			);
+			name = "DistortionVST3 - Standalone Plugin";
+			productName = DistortionVST3;
+			productReference = FA1F1B4B68E1D39982619E76;
+			productType = "com.apple.product-type.application";
+		};
+		F724382491264A8F618C8A9D = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C322877AC52125826FC23A8C,
+				F56B5450FFF8FEB64D4DD3F7,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		14DB93D769ABDE3A6F989437 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				60C5A8683BBC235503B0F63C,
+				B28A70167165D2F401D5E22E,
+				F3F7650D2DCE76B333A13049,
+				DAB4B3308E91703AEB073CA6,
+				633C95DA78B61FDC17310ED0,
+				F502FFF85D137D64521AE02B,
+				88E94B20F42621D69007E7CD,
+				9A34C23EB18CA724996C03C6,
+				166BB3BDDD8B6BED7625163E,
+				84F913E90B305E87CC606D58,
+				C95AADCCBBD9D2037117771D,
+				CCE643A61FB941178A713AB3,
+				5B5C9BE663131AF525200EF8,
+				A51735495EF7C9779C8BECCF,
+				212B127E36B94C9E9847E54F,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D603C56796CEC6F2D939EDA9 = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F724382491264A8F618C8A9D;
+			buildPhases = (
+				14DB93D769ABDE3A6F989437,
+			);
+			buildRules = ( );
+			dependencies = ( );
+			name = "DistortionVST3 - Shared Code";
+			productName = DistortionVST3;
+			productReference = B881BB9CE86D6D873AEC61FF;
+			productType = "com.apple.product-type.library.static";
+		};
+		579A6FE8D339A3F1727688AF = {
+			isa = PBXProject;
+			buildConfigurationList = 98870B15714EE07F76455444;
+			attributes = { LastUpgradeCheck = 1200; ORGANIZATIONNAME = "Axel Dunn"; TargetAttributes = { C19A1FE1E081E996505BAE90 = { SystemCapabilities = {com.apple.ApplicationGroups.iOS = { enabled = 0; }; com.apple.InAppPurchase = { enabled = 0; }; com.apple.InterAppAudio = { enabled = 0; }; com.apple.Push = { enabled = 0; }; com.apple.Sandbox = { enabled = 0; }; com.apple.HardenedRuntime = { enabled = 0; }; }; };17EAF302CDB5F3EB7882F8CD = { SystemCapabilities = {com.apple.ApplicationGroups.iOS = { enabled = 0; }; com.apple.InAppPurchase = { enabled = 0; }; com.apple.InterAppAudio = { enabled = 0; }; com.apple.Push = { enabled = 0; }; com.apple.Sandbox = { enabled = 0; }; com.apple.HardenedRuntime = { enabled = 0; }; }; };DDF073A53297C26C45CDF1C9 = { SystemCapabilities = {com.apple.ApplicationGroups.iOS = { enabled = 0; }; com.apple.InAppPurchase = { enabled = 0; }; com.apple.InterAppAudio = { enabled = 0; }; com.apple.Push = { enabled = 0; }; com.apple.Sandbox = { enabled = 0; }; com.apple.HardenedRuntime = { enabled = 0; }; }; };14D2E8531EF60AAE67097260 = { SystemCapabilities = {com.apple.ApplicationGroups.iOS = { enabled = 0; }; com.apple.InAppPurchase = { enabled = 0; }; com.apple.InterAppAudio = { enabled = 0; }; com.apple.Push = { enabled = 0; }; com.apple.Sandbox = { enabled = 0; }; com.apple.HardenedRuntime = { enabled = 0; }; }; };D603C56796CEC6F2D939EDA9 = { SystemCapabilities = {com.apple.ApplicationGroups.iOS = { enabled = 0; }; com.apple.InAppPurchase = { enabled = 0; }; com.apple.InterAppAudio = { enabled = 0; }; com.apple.Push = { enabled = 0; }; com.apple.Sandbox = { enabled = 0; }; com.apple.HardenedRuntime = { enabled = 0; }; }; }; }; };
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 0;
+			mainGroup = 9BBC831F6F099E43F407F87A;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (C19A1FE1E081E996505BAE90, 17EAF302CDB5F3EB7882F8CD, DDF073A53297C26C45CDF1C9, 14D2E8531EF60AAE67097260, D603C56796CEC6F2D939EDA9);
+			knownRegions = (en, Base);
+		};
+	};
+	rootObject = 579A6FE8D339A3F1727688AF;
+}
