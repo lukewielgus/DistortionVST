@@ -24,7 +24,7 @@ DistortionVST3AudioProcessor::DistortionVST3AudioProcessor()
 {
     pState = std::make_unique<AudioProcessorValueTreeState>(*this, nullptr);
     
-    pState->createAndAddParameter("drive", "Drive", "Drive", NormalisableRange<float>(0.f, 1.f, 0.1), 1.0, nullptr, nullptr);
+    pState->createAndAddParameter("drive", "Drive", "Drive", NormalisableRange<float>(0.f, 11.f, 0.1), 0.0, nullptr, nullptr);
     
     pState->state = ValueTree("drive");
 }
@@ -161,7 +161,7 @@ void DistortionVST3AudioProcessor::processBlock (juce::AudioBuffer<float>& buffe
         auto* channelData = buffer.getWritePointer (channel);
 
         // ..do something to the data...
-        for (int sample = 0; buffer.getNumSamples(); ++sample)
+        for (int sample = 0; sample < buffer.getNumSamples(); ++sample)
         {
             // grab the clean signal to use for blending with distorted signal later
             //float cleanSignal = *channelData;

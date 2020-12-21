@@ -15,11 +15,11 @@ DistortionVST3AudioProcessorEditor::DistortionVST3AudioProcessorEditor (Distorti
 {
     addAndMakeVisible(*driveKnob);
     driveKnob->setSliderStyle(Slider::RotaryVerticalDrag);
-    driveKnob->setTextBoxStyle(Slider::TextBoxBelow, false, 100, 100);
-    driveKnob->setTextBoxIsEditable(false);
+    driveKnob->setTextBoxStyle(Slider::NoTextBox, false, 100, 100);
+    //driveKnob->setTextBoxIsEditable(false);
     //driveKnob->showTextBox();
     
-    driveKnob->setRange(0.0, 11.0);
+    //driveKnob->setRange(0.0, 11.0);
     
     driveAttachment = std::make_unique<AudioProcessorValueTreeState::SliderAttachment>(p.getProcessorState(), "drive", *driveKnob);
     
@@ -43,10 +43,10 @@ void DistortionVST3AudioProcessorEditor::paint (juce::Graphics& g)
     g.setFont (15.0f);
     //g.drawFittedText ("Hello World!", getLocalBounds(), juce::Justification::centred, 1);
     
-    g.drawText("DRIVE", getWidth() / 2, getHeight() / 2, 100, 50, Justification::centred);
+    g.drawText("DRIVE", getLocalBounds(), Justification::centred, 1);
     
-    driveKnob->showTextBox();
-    driveKnob->TextBoxBelow = "Drive";
+    //driveKnob->showTextBox();
+    //driveKnob->TextBoxBelow = "Drive";
 }
 
 void DistortionVST3AudioProcessorEditor::resized()
@@ -54,5 +54,5 @@ void DistortionVST3AudioProcessorEditor::resized()
     // This is generally where you'll want to lay out the positions of any
     // subcomponents in your editor..
     
-    driveKnob->setBounds(getWidth() / 2, getHeight() / 2, 100, 100);
+    driveKnob->setBounds(100, 100, 100, 100);
 }
