@@ -13,6 +13,7 @@
 DistortionVST3AudioProcessorEditor::DistortionVST3AudioProcessorEditor (DistortionVST3AudioProcessor& p)
     : AudioProcessorEditor (&p), audioProcessor (p)
 {
+    // Drive knob
     addAndMakeVisible(*driveKnob);
     driveKnob->setSliderStyle(Slider::RotaryVerticalDrag);
     driveKnob->setTextBoxStyle(Slider::NoTextBox, false, 100, 100);
@@ -22,6 +23,13 @@ DistortionVST3AudioProcessorEditor::DistortionVST3AudioProcessorEditor (Distorti
     //driveKnob->setRange(0.0, 11.0);
     
     driveAttachment = std::make_unique<AudioProcessorValueTreeState::SliderAttachment>(p.getProcessorState(), "drive", *driveKnob);
+    
+    // Gain slider
+    addAndMakeVisible(*gainSlider);
+    gainSlider->setSliderStyle(Slider::LinearHorizontal);
+    gainSlider->setTextBoxStyle(Slider::NoTextBox, false, 100, 100);
+    
+    gainAttachment = std::make_unique<AudioProcessorValueTreeState::SliderAttachment>(p.getProcessorState(), "gain", *gainSlider);
     
     // Make sure that before the constructor has finished, you've set the
     // editor's size to whatever you need it to be.
@@ -42,9 +50,9 @@ void DistortionVST3AudioProcessorEditor::paint (juce::Graphics& g)
     g.setColour (juce::Colours::white);
     g.setFont (15.0f);
     //g.drawFittedText ("Hello World!", getLocalBounds(), juce::Justification::centred, 1);
-    
+    g.drawText("Axel Dunn Distortion", 0, 0, 300, 50, Justification::centred);
     g.drawText("DRIVE", getLocalBounds(), Justification::centred, 1);
-    
+    g.drawText("Output Gain", 25, 200, 100, 100, Justification::left);
     //driveKnob->showTextBox();
     //driveKnob->TextBoxBelow = "Drive";
 }
@@ -55,4 +63,5 @@ void DistortionVST3AudioProcessorEditor::resized()
     // subcomponents in your editor..
     
     driveKnob->setBounds(100, 100, 100, 100);
+    gainSlider->setBounds(100, 200, 100, 100);
 }

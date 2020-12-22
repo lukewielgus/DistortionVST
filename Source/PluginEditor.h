@@ -27,8 +27,10 @@ public:
 private:
     // knob for the drive
     std::unique_ptr<Slider> driveKnob = std::make_unique<juce::Slider>("Drive");
+    std::unique_ptr<Slider> gainSlider = std::make_unique<juce::Slider>("Output Gain");
     // attachment for the slider
     std::unique_ptr<AudioProcessorValueTreeState::SliderAttachment> driveAttachment;
+    std::unique_ptr<AudioProcessorValueTreeState::SliderAttachment> gainAttachment;
     // This reference is provided as a quick way for your editor to
     // access the processor object that created it.
     DistortionVST3AudioProcessor& audioProcessor;

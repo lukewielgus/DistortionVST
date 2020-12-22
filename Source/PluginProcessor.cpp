@@ -24,9 +24,10 @@ DistortionVST3AudioProcessor::DistortionVST3AudioProcessor()
 {
     pState = std::make_unique<AudioProcessorValueTreeState>(*this, nullptr);
     
-    pState->createAndAddParameter("drive", "Drive", "Drive", NormalisableRange<float>(0.f, 11.f, 0.1), 0.0, nullptr, nullptr);
-    
+    pState->createAndAddParameter("drive", "Drive", "Drive", NormalisableRange<float>(0.f, 100.f, 0.1), 0.0, nullptr, nullptr);
+    pState->createAndAddParameter("gain", "Output Gain", "Output Gain", NormalisableRange<float>(0.f, 1.f, 0.01), 1.f, nullptr, nullptr);
     pState->state = ValueTree("drive");
+    pState->state = ValueTree("gain");
 }
 
 DistortionVST3AudioProcessor::~DistortionVST3AudioProcessor()
@@ -155,7 +156,7 @@ void DistortionVST3AudioProcessor::processBlock (juce::AudioBuffer<float>& buffe
     // interleaved by keeping the same state.
     
     float driveVal = *pState->getRawParameterValue("drive");
-    
+    float gainVal = *pState->getRawParameterValue("gain");
     for (int channel = 0; channel < totalNumInputChannels; ++channel)
     {
         auto* channelData = buffer.getWritePointer (channel);
@@ -164,13 +165,19 @@ void DistortionVST3AudioProcessor::processBlock (juce::AudioBuffer<float>& buffe
         for (int sample = 0; sample < buffer.getNumSamples(); ++sample)
         {
             // grab the clean signal to use for blending with distorted signal later
-            //float cleanSignal = *channelData;
-
-            // do the actual distortion
-            *channelData *= driveVal;
-            // distortion algorithm
-            *channelData = (2.f / float_Pi) * atan(*channelData);
-            
+            float cleanSignal = *channelData;
+            if (driveVal < 1)
+            {
+                *channelData = cleanSignal * gainVal;
+            }
+            else
+            {
+                // do the actual distortion
+                *channelData *= driveVal;
+                // distortion algorithm
+                *channelData = ((((2.f / float_Pi) * atan(*channelData)) + cleanSignal) / 2) * gainVal;
+            }
+            // increment channel data
             ++channelData;
         }
     }
