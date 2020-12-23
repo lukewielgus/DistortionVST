@@ -62,6 +62,6 @@ void DistortionVST3AudioProcessorEditor::resized()
     // This is generally where you'll want to lay out the positions of any
     // subcomponents in your editor..
     
-    driveKnob->setBounds(100, 100, 100, 100);
+    driveKnob->setBounds(50, 50, 200, 200);
     gainSlider->setBounds(100, 200, 100, 100);
 }
